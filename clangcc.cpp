@@ -15,6 +15,7 @@
 #include <projectfile.h>
 #include <projectmanager.h>
 
+#include <iostream>
 #include <algorithm>
 #include <wx/dir.h>
 #include <wx/tokenzr.h>

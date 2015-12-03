@@ -1,5 +1,6 @@
 #include "clangdiagnostics.h"
 
+#include <iostream>
 #include <cbeditor.h>
 #include <cbproject.h>
 #include <configmanager.h>
